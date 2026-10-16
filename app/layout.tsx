@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Lecon",
-      url: "https://founder.rathon-rw.com",
+      url: "https://founder.rathon.agency",
     },
   ],
   creator: "Lecon",

@@ -1,5 +1,5 @@
 "use client";
-import { Calendar, Code2, Globe } from "lucide-react";
+import { Calendar, Globe } from "lucide-react";
 import { siteConfig } from "./site";
 export function useProjects() {
   return [
@@ -11,7 +11,7 @@ export function useProjects() {
         "A full-service agency specializing in website and software design, development, and hosting.",
       image: "/projects/rathon.png",
       links: {
-        demo: "https://rathon-rw.com",
+        demo: "https://rathon.agency",
       },
       icon: Calendar,
     },
@@ -23,27 +23,13 @@ export function useProjects() {
         "An ai platform that help you find and orders on menu from best best restaurants around you.",
       image: "/projects/kuluchat.png",
       links: {
-        demo: "https://kuluchat.vercel.app",
+        demo: "https://kuluchat.com",
       },
       icon: Calendar,
     },
     {
-      title: "Socially",
-      subtitle: "Chat application",
-      description:
-        "Modern social media platform which allows you to share your thoughts and connect with others.",
-      fullDescription:
-        "Modern social media platform which allows you to share your thoughts and connect with others.",
-      image: "/projects/cover.webp",
-      links: {
-        github: "https://github.com/x1xhlol/better-clawd",
-        demo: "https://socially-sigma-taupe.vercel.app/",
-      },
-      icon: Code2,
-    },
-    {
       title: "This portfolio",
-      subtitle: "founder.rathon-rw.com",
+      subtitle: "founder.rathon.agency",
       description:
         "Personal site built with Next.js and Tailwind: projects, blog, stack, and photos.",
       fullDescription:

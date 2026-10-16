@@ -66,7 +66,7 @@ export function Hero({ initialStats }: { initialStats: Stats }) {
                 I founder{" "}
                 <a
                   className="underline decoration-muted-foreground/30 underline-offset-[5px] transition-colors hover:decoration-foreground"
-                  href="https://rathon-rw.com/"
+                  href="https://rathon.agency"
                   rel="noopener"
                   target="_blank"
                 >
@@ -79,7 +79,7 @@ export function Hero({ initialStats }: { initialStats: Stats }) {
                 I also founder{" "}
                 <a
                   className="underline decoration-muted-foreground/30 underline-offset-[5px] transition-colors hover:decoration-foreground"
-                  href="https://kuluchat.vercel.app/"
+                  href="https://kuluchat.com"
                   rel="noopener"
                   target="_blank"
                 >
